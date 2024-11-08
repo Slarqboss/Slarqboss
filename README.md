@@ -1,4 +1,4 @@
-👋 Hi there! I'm Slarq, a dedicated programmer with a strong focus on Lua scripting, particularly in the realm of **FiveM** cheating and customization. Since 2019, I've immersed myself in **Lua development**, crafting innovative tools and exploits that push the boundaries of game automation and modding in the FiveM community.
+👋 Hi there! I'm Slarq a dedicated programmer with a strong focus on Lua scripting particularly in the realm of **fivem** cheating and customization. Since 2019 i've immersed myself in **lua development** crafting innovative tools and exploits that push the boundaries of game automation and modding in the fivem community.
 
 #### Areas of Expertise:
 - **Lua Scripting**: Mastery in creating efficient and powerful scripts tailored for FiveM.
